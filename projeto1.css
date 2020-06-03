@@ -1,0 +1,65 @@
+
+
+
+div{ 
+    text-align:center;
+}
+
+.logo{
+    text-align:center;
+    font-family: "Maven Pro";
+    color:#779c76;
+    font-size:45px;
+
+}
+
+.introducao{
+    text-align:center;
+    font-family: "Maven Pro";
+    color:#4f664f;
+    font-size:28px;
+
+}
+h1{
+    text-align:center;
+    font-family: "Maven Pro";
+    color:#4f664f;
+    font-size:17px;
+
+}
+body{
+margin: 0 auto;
+}
+
+.borda{
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 6%;  
+    padding-bottom: 3%;
+    background-color:#fffdf5;
+    margin-left:10%;
+    margin-right:10%;
+    font-family:'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size:18px;
+    color:#524139;
+    line-height: 1.4em;
+  }
+p{
+    text-align:center;
+    font-family: "Maven Pro";
+
+}
+
+#imge{
+    margin-top: 8%;
+    text-align:center;
+
+}
+
+@font-face {
+    font-family: "Maven Pro";
+    src: url("MavenPro-VariableFont_wght.ttf");
+  }
+
+  
